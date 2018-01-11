@@ -1,0 +1,2 @@
+# MagazineAndroidAPP
+Android app sandip
